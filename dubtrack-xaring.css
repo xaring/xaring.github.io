@@ -1,14 +1,14 @@
 /* Imports for certain features*/
 @import url("https://nightbloo.github.io/dubtrack/dubtrack.css");
-/* @import url("https://hebgbs.github.io/rainbowstuff.css"); /* Rainbow sliders */
-@import url("https://itsclutch.github.io/slidercolour.css"); /* Custom Blue - Black Slider / Clutch */
+@import url("https://hebgbs.github.io/rainbowstuff.css"); /* Rainbow sliders */
+/* @import url("https://itsclutch.github.io/slidercolour.css"); /* Custom Blue - Black Slider / Clutch */
 @import url("https://github.netux.ml/css/chatright.css"); /* Chat completely to the right */
 @import url("https://frosolf.github.io/leftvideo.css"); /* Video to the left */
 @import url("https://github.netux.ml/css/skynet.css"); /* Netox's bot prefs */
 @import url("https://github.netux.ml/css/animations.css"); /* NB3 animations */
 @import url("https://itsclutch.github.io/clutch-siteimgs.css"); /* Custom Site Image / Clutch */
-@import url("https://itsclutch.github.io/cursoretc.css"); /* Custom Cursor and Icons / Clutch */
-@import url("https://hebgbs.github.io/leftvideosmall.css"); /* Small video: left side mod */
+/* @import url("https://itsclutch.github.io/cursoretc.css"); /* Custom Cursor and Icons / Clutch */
+/* @import url("https://hebgbs.github.io/leftvideosmall.css"); /* Small video: left side mod */
  
 #main_player .player_header #topbanner {
     height: 0px !important;
