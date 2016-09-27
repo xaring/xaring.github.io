@@ -18,9 +18,9 @@
     background: rgba(0,0,0,0.5);
 }
  
-#player-controller .right ul li .add-to-playlist-button.grabbed .icon-heart:before, #player-controller .right ul li .add-to-playlist-button.grabbed span, #player-controller .right ul li .add-to-playlist-button.voted .icon-heart:before, #player-controller .right ul li .add-to-playlist-button.voted span, #player-controller .right ul li .dubdown.grabbed .icon-heart:before, #player-controller .right ul li .dubdown.grabbed span, #player-controller .right ul li .dubdown.voted .icon-heart:before, #player-controller .right ul li .dubdown.voted span {
+/*#player-controller .right ul li .add-to-playlist-button.grabbed .icon-heart:before, #player-controller .right ul li .add-to-playlist-button.grabbed span, #player-controller .right ul li .add-to-playlist-button.voted .icon-heart:before, #player-controller .right ul li .add-to-playlist-button.voted span, #player-controller .right ul li .dubdown.grabbed .icon-heart:before, #player-controller .right ul li .dubdown.grabbed span, #player-controller .right ul li .dubdown.voted .icon-heart:before, #player-controller .right ul li .dubdown.voted span {
     color: #1a1a1a !important;
-}
+}*/
  
 #user_popover .usercontent header h3 {
     color: #1a1a1a;
@@ -55,9 +55,9 @@ ul.avatar-list li.downdub {
     padding-right: 5px;
 }
  
-#player-controller .right ul li .add-to-playlist-button.grabbed span {
+/*#player-controller .right ul li .add-to-playlist-button.grabbed span {
     color: #1a1a1a !important;
-}
+}*/
  
 #header-global .header-right-navigation .user-info .user-image {
     border-radius: 5px !important;
