@@ -3,8 +3,8 @@
 
 @media screen and (min-width: 72em) { /* If not "phone mode" */
     /* Main function */
-    #main-room .left_section { padding: 0; margin-top: 0; }
-    #main-room .left_section  .main-player-wrapper { display: initial; }
+    /*#main-room .left_section { padding: 0; margin-top: 0; }*/
+    /*#main-room .left_section  .main-player-wrapper { display: initial; }*/
     #main_player { width: 100%; max-width: 60%; min-width: 1000px; /*float: right;*/ }
 
     /* Buttons fix */
@@ -32,5 +32,5 @@
     }
     #main_player .player_header span.edit-room { padding: 1px 0 0 4px; float: left; width: initial; }
     #main_player .player_header span.edit-room i { position: initial; }
-    #main_player .player_header span.skip-el { position: absolute; bottom: 0; right: initial; float: left; }
+    #main_player .player_header span.skip-el { position: absolute; bottom: 0; right: initial; /*float: left;*/ }
 }
