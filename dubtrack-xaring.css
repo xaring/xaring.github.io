@@ -37,4 +37,4 @@
 @import url("https://xaring.github.io/dubtrack-xaring.css"); /* Left side video player with a normal size */
 #main-room:not(.fullscreenParent) {max-width: 110vw;} 
 #main-room:not(.fullscreenParent) .left_section { width: 106vw; } 
-/*#main-room:not(.fullscreenParent) #main_player .player_container { height: 60vh; } */
+#main-room:not(.fullscreenParent) #main_player .player_container { height: 60vh; } */
