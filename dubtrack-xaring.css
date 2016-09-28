@@ -32,7 +32,8 @@
 @import url("https://frosolf.github.io/mixercore.css"); /* Chillout Mixer core theme */
 @import url("https://frosolf.github.io/betterchat.css"); /* Better chat (and other fixes + mixer colours) */
 @import url("https://frosolf.github.io/siteimgs.css"); /* Background images (Parted from mixercore) */
-/*@import url("https://frosolf.github.io/leftvideo.css"); /* Video to the left */
-/*@import url("https://frosolf.github.io/leftvideosmall.css"); /* Small video: left side mod Credit goes to Hebgbs */
 @import url("https://frosolf.github.io/usrprefs.css"); /* User-specific settings (Better chat improves some of this) */
-  /* Special */
+   /* Modifications by Xaring */
+#main-room:not(.fullscreenParent) {max-width: 100vw;} 
+#main-room:not(.fullscreenParent) .left_section { width: 60vw; } 
+#main-room:not(.fullscreenParent) #main_player .player_container { height: 60vh; } 
